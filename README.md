@@ -16,7 +16,7 @@ Most of the data used in this Project can be downloaded from the online portal o
 
 POLITICAL DATA
 <li> Results of the federal votations (2010-2016) 
-For each popular votation, we have the number and percentage of people that voted yes, no or blank, as well as the participation levels. This information is available for the whole country (downloadable table) or by canton (tables to be scraped)
+For each popular votation, we have the number and percentage of people that voted yes, no or blank, as well as the participation levels. This information is available for the whole <a href=" https://www.bfs.admin.ch/bfs/fr/home/statistiques/politique/votations.assetdetail.255285.html">country</a> (downloadable table) or by canton (tables to be scraped)
 <li> Votation recommendations by party (2010-2016)
 For each votation in a given year, we have the recommendations of the main parties (as yes or no).
 
