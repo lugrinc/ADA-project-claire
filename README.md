@@ -1,2 +1,12 @@
 # ADA_Project
-Project name: "Relationship between votations in Switzerland in 2014 and demographics and economics by canton."
+Influence of demographics and economics in the Swiss votations of 2014.
+
+## Abstract
+
+## Data Description
+
+## Feasibility and risks
+
+## Deliverables
+
+## Time Plan
