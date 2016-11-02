@@ -7,10 +7,8 @@ Swiss people are asked to vote for different law proposals each year. These prop
 In this project the outcomes of the votations (participation rate, percent in favor) will be analysed regarding their thematic category and the political party that emited it. The relation between these results and demographics, economics and education level of each canton will be analyzed.
 
 The goals of this project are :
-<li>
-•	To create an interactive map, showing the results of the votation per can and per thematic category (votation about economics, immigration, education…) 
-<li>
-•	To show statistical evidence that some denographics parameters could explain part of the votation outcome
+<li>To create an interactive map, showing the results of the votation per can and per thematic category (votation about economics, immigration, education…) 
+<li>To show statistical evidence that some denographics parameters could explain part of the votation outcome
 
 ## Data Description
 
