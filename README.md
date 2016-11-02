@@ -45,12 +45,12 @@ Results :  % yes, % participation, which political party emited  it,  thematic c
 
 Timeplan:
 
-1.	Data Wrangling : Get the data, clean them. Make a table with all the informations per canton. Make a second table with the outcomes of the votations per cantons
+1.	Data Wrangling : Get the data, clean them. Make a table with all the informations per canton. Make a second table with the outcomes of the votations per cantons.
 Deadline : 21st November
 
-2.	Statistical analysis : find relevant relations between the demographics and the votation outcome
+2.	Statistical analysis : find relevant relations between the demographics and the votation outcome.
 Deadline : 5 Decembre
 
-3.	Visusalisation : Build the interactive map(s)
+3.	Visusalisation : Build the interactive map(s).
 Deadline : 20 Janvier
 
