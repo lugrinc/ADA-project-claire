@@ -40,9 +40,9 @@ Results :  % yes, % participation, which political party emited  it,  thematic c
 
 ## Deliverables
 
-Interactive map of the swiss cantons.
-Have as a background a demographics parameter (that the user will choose). Add on the map the outcome of the votations (the user can choose all votations or a thematic). 
-Keep only the demographics for which we found a significant impact on the outcome.
+We will produce an interactive map of the swiss cantons.
+The user will be able to choose a demographic parameter (age, sex, average wage, education level..) and it will be displayed on the map as a background color for each canton. Then the used will be able to choose to add on the map the outcome of the votations (all votations together or a thematic). The outcome could be displayed as bullets representing the % of yes and the % of no for the category of votation. Each canton would have 2 bullets (yes and no) of size proportional to the outcome of the vote. The bullets color could correspond to the color of the political party that proposed (yes bullet) or opposed (no) the votation
+We will keep only the demographics for which we found a significant impact on the outcome.
 
 ## Time Plan
 
