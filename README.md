@@ -12,18 +12,6 @@ The goals of this project are :
 
 ## Data Description
 
-
-## Feasibility and risks
-
-## Deliverables
-
-## Time Plan
-Analysing the outcomes of the votation in Switzerland in 2014 ( ??? maybe more) in relation with demographics, economics and education level :
-
-Goal : 
-•	Create an interactive map, showing the results of the votation per can and per thematic category (votation about economics, immigration, education…) 
-•	Showing statistical evidence that some denographics parameters could explain part of the votation outcome
-
 Data :
 
 I) Demographics
@@ -46,11 +34,23 @@ https://www.bfs.admin.ch/bfs/fr/home/statistiques/politique/elections/conseil-na
 Votations :
 https://www.admin.ch/ch/f/pore/va/vab_2_2_4_1_2011_2020.html
 
-
-
 Results :  % yes, % participation, which political party emited  it,  thematic category
+
+## Feasibility and risks
+
+## Deliverables
+
+## Time Plan
 
 
 Timeplan:
 
-1.	Get the data, clean them and make the
+1.	Data Wrangling : Get the data, clean them. Make a table with all the informations per canton. Make a second table with the outcomes of the votations per cantons
+Deadline : 21st November
+
+2.	Statistical analysis : find relevant relations between the demographics and the votation outcome
+Deadline : 5 Decembre
+
+3.	Visusalisation : Build the interactive map(s)
+Deadline : 20 Janvier
+
