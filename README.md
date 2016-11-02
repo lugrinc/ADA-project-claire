@@ -12,29 +12,22 @@ The goals of this project are :
 
 ## Data Description
 
-Data :
+Most of the data used in this Project can be downloaded from the online portal of the Swiss government. https://www.admin.ch/ We will mainly use demographic and political data for the different cantons.
 
-I) Demographics
+POLITICAL DATA
+<li> Results of the federal votations (2010-2016) 
+For each popular votation, we have the number and percentage of people that voted yes, no or blank, as well as the participation levels. This information is available for the whole country (downloadable table) or by canton (tables to be scraped)
+<li> Votation recommendations by party (2010-2016)
+For each votation in a given year, we have the recommendations of the main parties (as yes or no).
 
-•	Education level :
-https://www.bfs.admin.ch/bfs/fr/home/statistiques/education-science/niveau-formation-competences.assetdetail.333136.html
+DEMOGRAPHIC DATA
+<li> Education level by canton (2014)
+For each canton, we have the absolute number and percentage of resident people having achieved each of the following educational levels: sans formation postobligatoire, degré secondaire professionnel, degré secondaire general, formation proffessionnelle supérieure, hautes écoles.
+<li> Education expenses by canton (2005-2012)
+For each canton, amount of money (and percentage of total expenses in the canton) that was invested in education. The amount of money spent per habitant is also available.
+<li> Age and sex  by canton (2014)
+Basic demographic data by canton such as number of people by gender and age categories. 
 
-•	Money spent in education per canton :
-http://www.scris.vd.ch/Default.aspx?DocID=5468&DomId=2021
-
-•	Age of the population :
-https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.291230.html
-
-
-II) Results of votation/elections
-
-Elections :
-https://www.bfs.admin.ch/bfs/fr/home/statistiques/politique/elections/conseil-national/force-partis.assetdetail.317518.html
-
-Votations :
-https://www.admin.ch/ch/f/pore/va/vab_2_2_4_1_2011_2020.html
-
-Results :  % yes, % participation, which political party emited  it,  thematic category
 
 ## Feasibility and risks
 
