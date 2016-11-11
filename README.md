@@ -25,6 +25,10 @@ For each canton, we have the absolute number and percentage of resident people h
 For each canton, amount of money (and percentage of total expenses in the canton) that was invested in education. The amount of money spent per habitant is also available.
 <li> [Age and sex]( https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.291230.html)  by canton: Average age of the permanent resident population by category of citizenship, sex and canton: 
 
+<li> [Number of residents] (https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.300201.html) Average permanent resident population by canton, in 2011-2015 
+
+
+
 ## Feasibility and risks
 
 On the one hand, most of the tables required to do this analysis have already been obtained, although a few will need to be scraped from the data as they are not directly downloaded. This kind of cantonal data is quite compact, meaning that it is summarized by cantons and therefore the size of tables is not very big. This will be an advantage for us since the data will easily be analyzed with our own personal computers. 
