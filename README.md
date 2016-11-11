@@ -23,8 +23,7 @@ DEMOGRAPHIC DATA
 For each canton, we have the absolute number and percentage of resident people having achieved each of the following educational levels: sans formation postobligatoire, degré secondaire professionnel, degré secondaire general, formation proffessionnelle supérieure, hautes écoles.
 <li> [Education expenses](http://www.scris.vd.ch/Default.aspx?DocID=5468&DomId=2021) by canton (2005-2012): 
 For each canton, amount of money (and percentage of total expenses in the canton) that was invested in education. The amount of money spent per habitant is also available.
-<li> [Age and sex]( https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.291230.html)  by canton (2014): 
-Basic demographic data by canton such as number of people by gender and age categories. 
+<li> [Age and sex]( https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.291230.html)  by canton: Average age of the permanent resident population by category of citizenship, sex and canton: 
 
 ## Feasibility and risks
 
