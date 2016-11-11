@@ -27,8 +27,9 @@ For each canton, amount of money (and percentage of total expenses in the canton
 
 <li> [Number of residents] (https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.300201.html) Average permanent resident population by canton, in 2011-2015 
 
-<li> [Various indicators]https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/tables.assetdetail.328177.html. Age of the population, urban population, main language, religious affiliation, urban/agricultural area, worka and income... lots of data per canton
+<li> [Various indicators] (https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/tables.assetdetail.328177.html). Age of the population, urban population, main language, religious affiliation, urban/agricultural area, worka and income... lots of data per canton
 
+<li> [Various indicators] (https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/tables.assetdetail.299707.htmlStructure) of the permanent resident population by canton. Contains gender, citizenship, marital status
 
 
 ## Feasibility and risks
